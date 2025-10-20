@@ -1,6 +1,4 @@
-# hw definition file for MatekF405 hardware
-# tested on the MatekF405-OSD board
-# with thanks to betaflight for pinout
+# hw definition file for HACKRCF405V2 hardware
 
 
 # MCU class and specific type
